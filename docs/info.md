@@ -13,7 +13,7 @@ Wowki AND gate implementation
 
 ## How to test
 
-Click on the run simulation to check the LED bulb glows when we connect the inputs ui0 and ui1 and when output is connected to EXT 0
+Click on the run simulation to check the LED bulb glows when we connect the inputs IN0 and IN1 and when output is connected to OUT 0
 
 ## External hardware
 
